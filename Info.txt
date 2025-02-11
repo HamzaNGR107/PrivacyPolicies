@@ -1,0 +1,3 @@
+<html>
+  <p>I'm Hamza Alnaggar, a programmer. I'm publishing my apps on APKPURE. My apps are ad-free. Enjoy the experience!</p>
+</html>
